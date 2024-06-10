@@ -1,0 +1,15 @@
+@import './variables';
+
+html, body {
+  padding: 0;
+  margin: 0;
+  background-color: $bg-primary;
+  color: $white-color;
+  min-height: 100vh;
+}
+
+#app {
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 32px;
+  margin-top: 0;
+}
